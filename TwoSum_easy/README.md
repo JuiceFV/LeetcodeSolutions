@@ -1,1 +1,1 @@
-[Explanation](https://github.com/JuiceFV/LeetcodeSultions/blob/master/TwoSum_easy/TwoSumExplanations.pdf)
+[Explanation](https://github.com/JuiceFV/LeetcodeSultions/blob/master/TwoSum_easy/Explanations.pdf)
