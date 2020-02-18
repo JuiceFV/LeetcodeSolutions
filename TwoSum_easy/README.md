@@ -1,1 +1,0 @@
-https://onedrive.live.com/redir?resid=F562AB82C1CFA7B5%211514&page=Edit&wd=target%28leetcode.one%7C393c02ac-4514-434c-b317-471923015926%2FTwo%20Sum%7Ce0c52ab9-34e3-4638-9d59-a591e2278f04%2F%29
