@@ -14,8 +14,7 @@ However inferior in memory:
 - [The Problem](#the-problem)
 - [The Solution](#the-solution)
 - [The Explanations](#the-explanations)
-		- [Bruteforce](#bruteforce)
-		- [Hash-Map](#hash-map)
+
 ## The Problem
 
 ### The task <!-- omit in toc -->
@@ -57,7 +56,7 @@ let's consider the condtion:
 
 ### Ideas' Drafts <!-- omit in toc -->
 
-#### Bruteforce
+#### Bruteforce <!-- omit in toc -->
 <details open> 
 <summary>Method explanations</summary>
 The first idea arossed was the simple brutforce.
@@ -79,7 +78,7 @@ If we need to go throughout the entire array and add up each element then in the
 Ok, let's just take a step beyond the ordinary thinking.
 </details>
 
-#### Hash-Map
+#### Hash-Map <!-- omit in toc -->
 
 <details open> 
 <summary>Method explanations</summary>
